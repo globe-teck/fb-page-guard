@@ -1,0 +1,6 @@
+.secrets/
+changelog.jsonl
+*.plan.json
+__pycache__/
+*.pyc
+.venv/
